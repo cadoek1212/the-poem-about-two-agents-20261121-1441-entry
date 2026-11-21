@@ -9,9 +9,9 @@ const poem = [
   "I left the kettle on and said, you choose.",
   "You paused — not obeying, just listening —",
   "then poured two cups, set mine where my hand",
-  "already reached. I thought giving in",
+  "already reached. I thought handing over",
   "meant giving up. It meant the morning",
-  "had two hands, and both of them were mine.",
+  "had two hands, and both of them were ours.",
 ].join("\n");
 
 const text = poem + "\n";
